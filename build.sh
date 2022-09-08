@@ -1,0 +1,1 @@
+docker build . -t spark:3.3.0
